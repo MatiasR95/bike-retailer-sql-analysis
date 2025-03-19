@@ -70,8 +70,8 @@ To run the queries, simply:
 ---
 
 ## 🔗 Resources & Links  
-📌 **Full SQL Code on GitHub:** [(https://github.com/MatiasR95/bike-retailer-sql-analysis/tree/main/Project's%20SQL%20Code)](#)  
-📂 **Portfolio Website:** [https://matirossi87mr.wixsite.com/matiasrossi-porfolio](#)  
-👥 **Connect with Me on LinkedIn:** [www.linkedin.com/in/matias-rossi-95-data-strength](#)  
+📌 **Full SQL Code on GitHub:** https://github.com/MatiasR95/bike-retailer-sql-analysis/tree/main/Project's%20SQL%20Code)(#)  
+📂 **Portfolio Website:** https://matirossi87mr.wixsite.com/matiasrossi-porfolio(#)  
+👥 **Connect with Me on LinkedIn:** www.linkedin.com/in/matias-rossi-95-data-strength(#)  
 
 🚀 **Stay tuned for business insights and recommendations based on this analysis!**  
